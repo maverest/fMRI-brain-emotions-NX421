@@ -10,4 +10,4 @@ We implement:
 3. **Dimensionality reduction via PCA** (artifact inspection, component selection)  
 4. **Report & figures** documenting methods and results
 
-You can read the full project report [here](./report.pdf).
+You can read the full project report [here](./Report.pdf).
