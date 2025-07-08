@@ -1,5 +1,5 @@
 # fMRI Brain Emotion Processing NX-421 Project 1
-This report contains the code and report of our work on the NX-421 mini-project 1. We employ the publicly available OpenNeuro ds000171 dataset which contains neural responses to 
+This repository contains the code and report of our work on the NX-421 mini-project 1. We employ the publicly available OpenNeuro ds000171 dataset which contains neural responses to 
 emotionally charged auditory stimuli using functional magnetic resonance imaging (fMRI).
 We apply relational modeling and multivariate pattern analysis to single-subject fMRI data to map emotional states onto specific brain regions and functional networks.
 The aim of this project is to familiarize ourselves with the processing and analysis of fMRI datasets and to deepen our understanding of how the brain encodes emotionally varied auditory tones.
