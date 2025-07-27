@@ -14,4 +14,4 @@ We implement:
 4. **Report & figures** documenting methods and results
 
 ---
-The code and environment.yml are provided for reproducibility. See the [report](./report.pdf) for details about results and analysis.
+The code and environment.yml are provided for reproducibility. See the [report](./Report.pdf) for details about results and analysis.
